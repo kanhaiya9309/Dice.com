@@ -1,4 +1,4 @@
-var radomNumber1=Math.floor(Math.random()*6)+1;  //1-6
+var radomNumber1=Math.floor(Math.random()*4)+1;  //1-4
 
 var randomDiceImage="dice" +radomNumber1 +".png";
 
